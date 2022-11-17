@@ -1,0 +1,15 @@
+C:\Users\Chinchinadapavani\Source\Repos\csassign2\csassign2\bin\Debug\net6.0\csassign2.exe
+C:\Users\Chinchinadapavani\Source\Repos\csassign2\csassign2\bin\Debug\net6.0\csassign2.deps.json
+C:\Users\Chinchinadapavani\Source\Repos\csassign2\csassign2\bin\Debug\net6.0\csassign2.runtimeconfig.json
+C:\Users\Chinchinadapavani\Source\Repos\csassign2\csassign2\bin\Debug\net6.0\csassign2.dll
+C:\Users\Chinchinadapavani\Source\Repos\csassign2\csassign2\bin\Debug\net6.0\csassign2.pdb
+C:\Users\Chinchinadapavani\Source\Repos\csassign2\csassign2\obj\Debug\net6.0\csassign2.csproj.AssemblyReference.cache
+C:\Users\Chinchinadapavani\Source\Repos\csassign2\csassign2\obj\Debug\net6.0\csassign2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinchinadapavani\Source\Repos\csassign2\csassign2\obj\Debug\net6.0\csassign2.AssemblyInfoInputs.cache
+C:\Users\Chinchinadapavani\Source\Repos\csassign2\csassign2\obj\Debug\net6.0\csassign2.AssemblyInfo.cs
+C:\Users\Chinchinadapavani\Source\Repos\csassign2\csassign2\obj\Debug\net6.0\csassign2.csproj.CoreCompileInputs.cache
+C:\Users\Chinchinadapavani\Source\Repos\csassign2\csassign2\obj\Debug\net6.0\csassign2.dll
+C:\Users\Chinchinadapavani\Source\Repos\csassign2\csassign2\obj\Debug\net6.0\refint\csassign2.dll
+C:\Users\Chinchinadapavani\Source\Repos\csassign2\csassign2\obj\Debug\net6.0\csassign2.pdb
+C:\Users\Chinchinadapavani\Source\Repos\csassign2\csassign2\obj\Debug\net6.0\csassign2.genruntimeconfig.cache
+C:\Users\Chinchinadapavani\Source\Repos\csassign2\csassign2\obj\Debug\net6.0\ref\csassign2.dll
