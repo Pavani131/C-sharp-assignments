@@ -1,0 +1,15 @@
+C:\Users\Chinchinadapavani\Source\Repos\csassign2Q1\csassign2Q1\bin\Debug\net6.0\csassign2Q1.exe
+C:\Users\Chinchinadapavani\Source\Repos\csassign2Q1\csassign2Q1\bin\Debug\net6.0\csassign2Q1.deps.json
+C:\Users\Chinchinadapavani\Source\Repos\csassign2Q1\csassign2Q1\bin\Debug\net6.0\csassign2Q1.runtimeconfig.json
+C:\Users\Chinchinadapavani\Source\Repos\csassign2Q1\csassign2Q1\bin\Debug\net6.0\csassign2Q1.dll
+C:\Users\Chinchinadapavani\Source\Repos\csassign2Q1\csassign2Q1\bin\Debug\net6.0\csassign2Q1.pdb
+C:\Users\Chinchinadapavani\Source\Repos\csassign2Q1\csassign2Q1\obj\Debug\net6.0\csassign2Q1.csproj.AssemblyReference.cache
+C:\Users\Chinchinadapavani\Source\Repos\csassign2Q1\csassign2Q1\obj\Debug\net6.0\csassign2Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chinchinadapavani\Source\Repos\csassign2Q1\csassign2Q1\obj\Debug\net6.0\csassign2Q1.AssemblyInfoInputs.cache
+C:\Users\Chinchinadapavani\Source\Repos\csassign2Q1\csassign2Q1\obj\Debug\net6.0\csassign2Q1.AssemblyInfo.cs
+C:\Users\Chinchinadapavani\Source\Repos\csassign2Q1\csassign2Q1\obj\Debug\net6.0\csassign2Q1.csproj.CoreCompileInputs.cache
+C:\Users\Chinchinadapavani\Source\Repos\csassign2Q1\csassign2Q1\obj\Debug\net6.0\csassign2Q1.dll
+C:\Users\Chinchinadapavani\Source\Repos\csassign2Q1\csassign2Q1\obj\Debug\net6.0\refint\csassign2Q1.dll
+C:\Users\Chinchinadapavani\Source\Repos\csassign2Q1\csassign2Q1\obj\Debug\net6.0\csassign2Q1.pdb
+C:\Users\Chinchinadapavani\Source\Repos\csassign2Q1\csassign2Q1\obj\Debug\net6.0\csassign2Q1.genruntimeconfig.cache
+C:\Users\Chinchinadapavani\Source\Repos\csassign2Q1\csassign2Q1\obj\Debug\net6.0\ref\csassign2Q1.dll
